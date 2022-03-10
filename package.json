@@ -1,0 +1,29 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "app to create team profile generator ",
+    "main": "index.js",
+    "directories": {
+      "lib": "lib"
+    },
+    "scripts": {
+      "test": "jest",
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://https://github.com/chris-reilly99/Team-Generator.git"
+    },
+    "author": "Chris Reilly",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://https://github.com/chris-reilly99/Team-Generator/issues"
+    },
+    "homepage": "https://https://github.com/chris-reilly99/Team-Generator#readme",
+    "devDependencies": {
+      "jest": "^26.0.1"
+    },
+    "dependencies": {
+      "inquirer": "^7.1.0"
+    }
+  }
